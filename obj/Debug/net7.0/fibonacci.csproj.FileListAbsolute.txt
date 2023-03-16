@@ -1,0 +1,15 @@
+E:\Codigos\Processo seletivo estagio\fibonacci\bin\Debug\net7.0\fibonacci.exe
+E:\Codigos\Processo seletivo estagio\fibonacci\bin\Debug\net7.0\fibonacci.deps.json
+E:\Codigos\Processo seletivo estagio\fibonacci\bin\Debug\net7.0\fibonacci.runtimeconfig.json
+E:\Codigos\Processo seletivo estagio\fibonacci\bin\Debug\net7.0\fibonacci.dll
+E:\Codigos\Processo seletivo estagio\fibonacci\bin\Debug\net7.0\fibonacci.pdb
+E:\Codigos\Processo seletivo estagio\fibonacci\obj\Debug\net7.0\fibonacci.csproj.AssemblyReference.cache
+E:\Codigos\Processo seletivo estagio\fibonacci\obj\Debug\net7.0\fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+E:\Codigos\Processo seletivo estagio\fibonacci\obj\Debug\net7.0\fibonacci.AssemblyInfoInputs.cache
+E:\Codigos\Processo seletivo estagio\fibonacci\obj\Debug\net7.0\fibonacci.AssemblyInfo.cs
+E:\Codigos\Processo seletivo estagio\fibonacci\obj\Debug\net7.0\fibonacci.csproj.CoreCompileInputs.cache
+E:\Codigos\Processo seletivo estagio\fibonacci\obj\Debug\net7.0\fibonacci.dll
+E:\Codigos\Processo seletivo estagio\fibonacci\obj\Debug\net7.0\refint\fibonacci.dll
+E:\Codigos\Processo seletivo estagio\fibonacci\obj\Debug\net7.0\fibonacci.pdb
+E:\Codigos\Processo seletivo estagio\fibonacci\obj\Debug\net7.0\fibonacci.genruntimeconfig.cache
+E:\Codigos\Processo seletivo estagio\fibonacci\obj\Debug\net7.0\ref\fibonacci.dll
